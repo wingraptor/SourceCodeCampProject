@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    font-size: 40px
+}
+
+title{
+text-align: center;
+display: block;
+font-size: 40px;
+background-color: black;
+color: purple;
+border:2px
+}
+
+section{
+    display: inline-block;
+    border: 2px
+}
+
+nav{
+    background-color: white;
+    font-size: 25px
+}
+
+li a {
+    color: purple;
+
+}
